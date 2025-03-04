@@ -1,3 +1,4 @@
+
 const nav = document.querySelector('nav');
 const toggleHamMenu = document.querySelector('.nav__menu');
 toggleHamMenu.addEventListener('click', ()=>{
@@ -20,3 +21,4 @@ dropdownLists.forEach((list) => {
         }
     });
 });
+
